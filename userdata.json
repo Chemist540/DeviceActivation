@@ -29,4 +29,9 @@
         "expirydate": "15-11-2027",
         "Allowoffline": false
     },
-]
+]   {
+        "device_id": "74eaccb4ff62",
+        "key": "key",
+        "expirydate": "15-11-2027",
+        "Allowoffline": false
+    },
