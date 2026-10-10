@@ -30,14 +30,14 @@
         "Allowoffline": false
     },
 ]   {
-        "device_id": "0659a1d32ac77001",
-        "key": "hosho786",
+        "device_id": "0659a12ac77001",
+        "key": "key786",
         "expirydate": "15-11-2027",
         "Allowoffline": false
     },
     {
-        "device_id": "bd9b2a38d2d",
-        "key": "key123",
+        "device_id": "0659a1d32ac77001",
+        "key": "hosho123",
         "expirydate": "29-10-2026",
         "Allowoffline": false
     },
