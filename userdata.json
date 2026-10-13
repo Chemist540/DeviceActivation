@@ -41,4 +41,16 @@
         "expirydate": "29-10-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "devce123",
+        "key": "key12345",
+        "expirydate": "31-11-2026",
+        "Allowoffline": true
+    },
 ]
